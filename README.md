@@ -14,3 +14,5 @@ Classes:
 
 * UnitMultiplication: generate transition matrix and perform element-wise multiplication of transition matrix and pr matrix
 * UnitSum: perform summation of the multiplication results group by each row
+
+tuitorial from www.jiuzhang.com
