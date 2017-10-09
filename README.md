@@ -6,6 +6,10 @@ input:
 * webpage linkage data
 * initial page rank
 
+Basic theory:
+* quantity assumption
+* quality assumption
+
 algorithm:
 
 Pr(k+1) = transition matrix * Pr(k)
